@@ -1,4 +1,7 @@
 <?php
+// makes composer packages avaiable to your program -- if you're
+// using a PHP framework with composer support this probably
+// already happens.
 require 'vendor/autoload.php';
 
 $token = 'ab...3e'; # https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
