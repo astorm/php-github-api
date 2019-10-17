@@ -28,3 +28,4 @@ and you should be good to go.  This package will install `knplabs/github-api` **
     echo "Downloaded","\n";
     echo $file;
 
+If you need more help the [actual project repository's README.md](https://github.com/KnpLabs/php-github-api) has everything you need to get started.
