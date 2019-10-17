@@ -1,2 +1,5 @@
 # php-github-api
-a slight package to make KnpLabs/php-github-api installation a one step affair.
+
+A [composer metapackage] that makes [the great KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) package slightly easier to work with.
+
+

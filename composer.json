@@ -1,0 +1,15 @@
+{
+    "name": "pulsestorm/php-github-api",
+    "description": "wrapper for KnpLabs/php-github-api",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Alan Storm",
+            "email": "astorm@alanstorm.com"
+        }
+    ],
+    "require": {
+        "knplabs/github-api": "^2.11",
+        "php-http/guzzle6-adapter": "^1.1"
+    }
+}
